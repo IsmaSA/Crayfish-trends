@@ -1,5 +1,7 @@
-### Crayfish proyect
+### Crayfish proyect :) 
 setwd("C:/Users/isma-/OneDrive/Escritorio/Crayfish")
+
+
 df <- read_excel("Crayfish.xlsx")
 
 head(df)
